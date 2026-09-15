@@ -45,10 +45,10 @@ void Conversion() {
 
     result = choice[0] - 65;
 
-    cout << result;
+    //cout << result;
     //when testing, A should come out as 0
 
-    cout << endl << endl << cypher[result]; //when testing, A should come out as V
+    cout << endl << endl << cypher[result] << endl << endl; //when testing, A should come out as V
 
 }
 
